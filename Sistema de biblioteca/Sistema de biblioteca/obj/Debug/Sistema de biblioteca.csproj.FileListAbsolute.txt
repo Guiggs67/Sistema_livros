@@ -1,0 +1,15 @@
+Z:\2023- 2S\Algoritimo\Sistema de biblioteca\Sistema de biblioteca\bin\Debug\Sistema de biblioteca.exe.config
+Z:\2023- 2S\Algoritimo\Sistema de biblioteca\Sistema de biblioteca\bin\Debug\Sistema de biblioteca.exe
+Z:\2023- 2S\Algoritimo\Sistema de biblioteca\Sistema de biblioteca\bin\Debug\Sistema de biblioteca.pdb
+Z:\2023- 2S\Algoritimo\Sistema de biblioteca\Sistema de biblioteca\obj\Debug\Sistema de biblioteca.csproj.AssemblyReference.cache
+Z:\2023- 2S\Algoritimo\Sistema de biblioteca\Sistema de biblioteca\obj\Debug\Sistema de biblioteca.csproj.CoreCompileInputs.cache
+Z:\2023- 2S\Algoritimo\Sistema de biblioteca\Sistema de biblioteca\obj\Debug\Sistema de biblioteca.exe
+Z:\2023- 2S\Algoritimo\Sistema de biblioteca\Sistema de biblioteca\obj\Debug\Sistema de biblioteca.pdb
+C:\Users\guilh\Downloads\Sisitema_livros-main\Sisitema_livros-main\Sistema de biblioteca\Sistema de biblioteca\bin\Debug\Sistema de biblioteca.exe.config
+C:\Users\guilh\Downloads\Sisitema_livros-main\Sisitema_livros-main\Sistema de biblioteca\Sistema de biblioteca\bin\Debug\Sistema de biblioteca.exe
+C:\Users\guilh\Downloads\Sisitema_livros-main\Sisitema_livros-main\Sistema de biblioteca\Sistema de biblioteca\bin\Debug\Sistema de biblioteca.pdb
+C:\Users\guilh\Downloads\Sisitema_livros-main\Sisitema_livros-main\Sistema de biblioteca\Sistema de biblioteca\obj\Debug\Sistema de biblioteca.csproj.AssemblyReference.cache
+C:\Users\guilh\Downloads\Sisitema_livros-main\Sisitema_livros-main\Sistema de biblioteca\Sistema de biblioteca\obj\Debug\Sistema de biblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\Downloads\Sisitema_livros-main\Sisitema_livros-main\Sistema de biblioteca\Sistema de biblioteca\obj\Debug\Sistema de biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Downloads\Sisitema_livros-main\Sisitema_livros-main\Sistema de biblioteca\Sistema de biblioteca\obj\Debug\Sistema de biblioteca.exe
+C:\Users\guilh\Downloads\Sisitema_livros-main\Sisitema_livros-main\Sistema de biblioteca\Sistema de biblioteca\obj\Debug\Sistema de biblioteca.pdb
